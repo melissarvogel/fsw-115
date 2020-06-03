@@ -1,0 +1,77 @@
+{
+    "deliMenuDrinks": [
+        {
+            "name": "Sprite",
+            "ingredients": ["Sugar", "water", "more sugar"],
+            "desription": "If you feel like drinking liquid sugar, this is your drink!"
+        }, {
+            "name": "Coke",
+            "ingredients": ["Probably battery acid", "sugar", "fizz"],
+            "desription": "If you don't finish it, you can use it to get rust off your bumper."
+        }, {
+            "name": "tea",
+            "ingredients": ["leaf", "ice"],
+            "desription": "Served hot of cold, probably your best choice."
+        }
+    ],
+    "deliMenuAppetizers": [
+        {
+            "name": "apple slices",
+            "ingredients": ["apples", "cinnamon", "waitress judgementif you're over the age of 12"],
+            "description": "Kids have to eat too."
+        }, {
+            "name": "mozzerella sticks",
+            "ingredients": ["cheese", "bread", "tomato sauce"], 
+            "description": "Delicious for all ages."
+        }, {
+            "name": "nachos",
+            "ingredients": ["tortilla chips", "hot salsa, because momma didn't raise no punk", "cheese"],
+            "description": "Microwave nachos, just like mom used to make."
+        }
+    ],
+    "deliMenuColdSandwich": [
+        {
+            "name": "turkey",
+            "ingredients": ["turkey", "bread", "plate"],
+            "description": "Turkey sandwich."
+        }, {
+            "name": "bologna",
+            "ingredients": ["bologna", "bread", "probably more waitress judgement if you're over the age of twelve"],
+            "description": "You have to sing the song if you want to order this one."
+        }, {
+            "name": "pb&j",
+            "ingredients": ["peanut butter", "jelly", "bread"],
+            "description": "It's peanut butter. It's delicious."
+        }
+    ], 
+    "deliMenuHotSandwich": [
+        {
+            "name": "grilled cheese",
+            "ingredients": ["cheese", "butter", "bread", "tomato soup"],
+            "description": "Tomato soup is not optional, it is the only way to eat a grilled cheese."
+        }, {
+            "name": "spaghetti sandwich",
+            "ingredients": ["spaghetti", "tomato sauce", "bread"],
+            "description": "We mostly offer this when there is nothing else left in the kitchen."
+        }, {
+            "name": "cheesesteak",
+            "ingredients": ["cheese", "steak", "bread"],
+            "description": "It's probably not as good as one from Philly."
+        }
+    ],
+    "deliMenuDesserts": [
+        {
+            "name": "twinkie",
+            "ingredients": ["does anyone really know?", "some sort of sponge, I guess", "also some sort of filling"],
+            "description": "Only available upon zombie apolocypse."
+        }, {
+            "name": "oreo",
+            "ingredients": ["cookie", "filling"],
+            "description": "You only get one, and there is no milk."
+        }, {
+            "name": "questionable plastic wrapped brownie sitting by the register",
+            "ingredients": ["flour?", "sugar?", "chocolate?"],
+            "description": "A few people have picked it up and decided they didn't want it. It's porbably okay though."
+        }
+    ]
+}
