@@ -1,0 +1,18 @@
+body {
+    background-color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 5px;
+    padding: 5px;
+}
+
+#planet {
+    color: lightblue;
+}
+
+#movie {
+    color: limegreen;
+}
+
+#resident {
+    color: red;
+}
